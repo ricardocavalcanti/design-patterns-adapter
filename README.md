@@ -51,13 +51,6 @@ design-patterns-adapter/
 
 ---
 
-## 🧪 Exemplo de saída
-Pagamento CLT: 5000.0
-Pagamento PJ: 7000.0
-Pagamento Estágio: 1200.0
-
----
-
 ## 📚 Conceitos aplicados
 
 - Encapsulamento: O adapter encapsula a adaptação entre duas interfaces incompatíveis, escondendo a complexidade da conversão.
